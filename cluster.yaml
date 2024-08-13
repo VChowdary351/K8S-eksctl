@@ -6,7 +6,7 @@ metadata:
   region: us-east-1
 
 managednodeGroups:
-  - name: spot-1
+  - name: spot
     instanceType: t3.medium
     desiredCapacity: 3
     spot: true
